@@ -1,0 +1,1 @@
+<p>El usuario ha sido creado correctamente.</p>

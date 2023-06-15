@@ -1,0 +1,1 @@
+<p>La cita se ha creado correctamente.</p>
